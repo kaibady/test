@@ -28,10 +28,3 @@
 
 [unittest框架渠道包自动化验证](https://mp.weixin.qq.com/s/po9sCKhjg6y8UY__wb9xFA)
 
-## 学习交流
-
-
-你也可以关注微信公众号「Python知识圈」，学习测试之外，懂点 Python，你会走得更快更远。
-
-
-![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
